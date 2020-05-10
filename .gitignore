@@ -1,2 +1,2 @@
-#ignore *.txt
-*.txt
+#ignore checkpoints
+*.ipynb_checkpoints
