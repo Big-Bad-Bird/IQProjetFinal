@@ -4,7 +4,7 @@
 
 GenreratorRandomSequencies.ipynb: un notebook permettant de générer plusieurs fichiers .txt utilisés dans le Tests.ipynb
 
-Tests.ipynb: notebook permettant de réaliser différents tests sur les séquences binaires contenues dans un .txt. La première case permet de charger le fichier .txt voulu, il suffit ensite de lancé les autres case pour éxécuter leur test.
+Tests.ipynb: notebook permettant de réaliser différents tests sur les séquences binaires contenues dans un .txt. La première case permet de charger le fichier .txt voulu, il suffit ensuite de lancé les autres case pour éxécuter leur test.
 
 sampledata-1MB.bin une séquence binaire générée aléatoirement par le fournisseur Nano-Optics, pour ceux qui veulent faire un test de leur QRNG sans vouloir se créer un compte.
 
