@@ -1,6 +1,6 @@
 # Projet Final: QRNG
 
-## Contenu/:
+## Contenu:
 
 GenreratorRandomSequencies.ipynb: un notebook permettant de générer plusieurs fichiers .txt utilisés dans le Tests.ipynb
 
