@@ -24,6 +24,6 @@ Tests.ipynb: notebook realising different testson the binary sequences contained
 
 sampledata-1MB.bin is a randomly generated binary sequence gotten from Nano-Optics, allowing to test rapidly there QRNG without an account.
 
-## Remerciements
+## Aknowledgments
 
 We give our heartfely thanks to IBM, whom as granted public access to it's quantum generators, and to ANU Quantum Random Numbers Server and Nano-Optics from Humboldt University for allowing the public to access their Quantum Random Number Generators.
